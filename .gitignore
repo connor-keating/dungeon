@@ -1,0 +1,10 @@
+# whitelist style i.e. ignore everything unless it's in here
+*
+
+# tells Git to specifically check subfolders
+!*/ 
+
+!.gitignore
+
+!src/*
+!.vscode/*
